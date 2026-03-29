@@ -2705,7 +2705,6 @@ _Libraries for accessing third party APIs._
 - [circleci](https://github.com/jszwedko/go-circleci) - Go client library for interacting with CircleCI's API.
 - [clarifai](https://github.com/samuelcouch/clarifai) - Go client library for interfacing with the Clarifai API.
 - [codeship-go](https://github.com/codeship/codeship-go) - Go client library for interacting with Codeship's API v2.
-- [coinpaprika-go](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client library for interacting with Coinpaprika's API.
 - [device-check-go](https://github.com/rinchsan/device-check-go) - Go client library for interacting with [iOS DeviceCheck API](https://developer.apple.com/documentation/devicecheck) v1.
 - [discordgo](https://github.com/bwmarrin/discordgo) - Go bindings for the Discord Chat API.
 - [disgo](https://github.com/switchupcb/disgo) - Go API Wrapper for the Discord API.
